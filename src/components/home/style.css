@@ -1,0 +1,16 @@
+.posts-container{
+    margin-top: 10px;
+    background: white;
+}
+
+.highlight-card img{
+    max-height: 300px !important;
+}
+
+.post-card a{
+    color: black !important;
+}
+
+.post-card img{
+    max-height: 300px;
+}

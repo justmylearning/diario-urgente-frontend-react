@@ -1,0 +1,46 @@
+@media only screen and (max-width:768px) {
+    
+}
+
+.header-wrap{
+    background: #0088ff;
+    height: 50px;
+    color: white;
+}
+
+.header-logo-wrap{
+    color: white;
+}
+
+.header-categories-wrap ul{
+    margin: 0px;
+}
+
+.header-categories-wrap ul li{
+    display: inline;
+    margin-right: 12px;
+}
+
+.header-wrap .header-link{
+    text-decoration: none;
+    color: #ececec;
+    font-size: 12px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.header-wrap .header-link:hover{
+    color: white;
+    transform: scale(1.05);
+    transition-duration: .1s;
+}
+
+.header-wrap .header-link i{
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+.header-icons-wrap{
+    display: flex;
+    justify-content: space-between;
+}
